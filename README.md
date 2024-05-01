@@ -1,6 +1,10 @@
 # PHP TSA (TimeStamping authority)
 ## Description
 RFC3161 TSA (TimeStamping authority) server with pure php.  
+### Installation
+Just place to htdocs directory.  
+openssl extension is required.  
+  
 ### Settings
 ``$tsa->policy`` TSA Policy Object id  
 ``$tsa->serial`` TSA serial number  
