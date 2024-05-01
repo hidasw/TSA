@@ -8,3 +8,5 @@ RFC3161 TSA (TimeStamping authority) server with pure php.
 ``$tsa->signerCert`` TSA signer certificate  
 ``$tsa->signerPkey`` TSA signer privatekey  
 ``$tsa->extracerts`` array containts TSA signer extra certificate to included (ca chain of issuers)  
+  
+``landing.php`` page to show when accessed via web browser
